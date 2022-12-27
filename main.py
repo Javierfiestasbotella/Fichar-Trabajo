@@ -157,14 +157,15 @@ class Fichar():
 
       vespacio2=StringVar()
       vtexto=StringVar()
-      Label(self.raiz, text="Aproxime tarjeta").pack()
+      #photo = tk.PhotoImage(file='pruebas python\\Fichar_tiempo\\imagenes\\cam9.gif')
+      Label(self.raiz, text="Aproxime tarjeta", font=("Helvetica", 14)).pack()
       self.espacio2=Entry(self.raiz,font=('italic',25),textvariable=vespacio2)
       self.espacio2.pack()
       self.espacio2.focus_set()
       Label(self.raiz, text="\n\n\n").pack() 
       self.boton1=Button(self.raiz,text="Activate",bg="#3ADF00", height=2 ,font=('italic',10),width=30,activebackground="#FA2821",command=f.captura).place(x=100,y=80)
       Label(self.raiz, text="").pack()
-      Label(self.raiz,text='Trabajadores Activos').place(x=250,y=270)
+      Label(self.raiz,text='Emoji del Trabajador',font=("Helvetica", 14)).place(x=200,y=270)
       Label(self.raiz, text="").place(x=75,y=140)
    
       self.listado=Text(self.raiz,width=40,height=2)
