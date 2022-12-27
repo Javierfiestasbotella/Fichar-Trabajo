@@ -1,0 +1,1299 @@
+Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Camila Lopez---> Hora: 12:00
+Mari Cruz Frias---> Hora: 16:36
+Camila Lopez---> Hora: 16:36
+Javi Fiestas---> Hora: 16:36
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:36:00
+Javi----> 5:36:00
+Cami----> 4:36:00
+
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-01
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Estefania Ferre---> Hora: 16:41
+Mari Cruz Frias---> Hora: 16:42
+Camila Lopez---> Hora: 16:42
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:42:00
+Este----> 4:41:00
+Cami----> 3:42:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-02
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            
+
+
+Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 12:59
+Mari Cruz Frias---> Hora: 16:50
+Estefania Ferre---> Hora: 16:55
+Camila Lopez---> Hora: 16:55
+Javi Fiestas---> Hora: 16:55
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:50:00
+Javi----> 5:55:00
+Este----> 4:55:00
+Cami----> 3:56:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-03
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 10:58
+Mari Cruz Frias---> Hora: 12:00
+Estefania Ferre---> Hora: 12:00
+Mari Cruz Frias---> Hora: 16:28
+Javi Fiestas---> Hora: 16:31
+Estefania Ferre---> Hora: 16:31
+Javi Fiestas---> Hora: 19:54
+Estefania Ferre---> Hora: 20:00
+Mari Cruz Frias---> Hora: 20:00
+Mari Cruz Frias---> Hora: 23:00
+Estefania Ferre---> Hora: 23:20
+Javi Fiestas---> Hora: 23:20
+
+
+---------Total horas trabajadores--------
+
+Javi----> 08:59:00
+Mari----> 07:28:00
+Este----> 07:51:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-04
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 12:30
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:29
+Camila Lopez---> Hora: 16:30
+Javi Fiestas---> Hora: 17:04
+Estefania Ferre---> Hora: 17:04
+Mari Cruz Frias---> Hora: 20:00
+Javi Fiestas---> Hora: 19:30
+Camila Lopez---> Hora: 20:02
+Mari Cruz Frias---> Hora: 23:02
+Camila Lopez---> Hora: 23:10
+Javi Fiestas---> Hora: 23:16
+
+
+---------Total horas trabajadores--------
+
+Mari----> 08:31:00
+Javi----> 09:50:00
+Este----> 4:34:00
+Cami----> 06:38:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-05
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Estefania Ferre---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Teresa Orellana---> Hora: 16:43
+Javi Fiestas---> Hora: 16:55
+Estefania Ferre---> Hora: 16:55
+
+
+---------Total horas trabajadores--------
+
+Este----> 5:55:00
+Tere----> 5:43:00
+Javi----> 5:55:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-07
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 10:00
+Camila Lopez---> Hora: 12:00
+Mari Cruz Frias---> Hora: 16:45
+Camila Lopez---> Hora: 16:52
+Javi Fiestas---> Hora: 16:53
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:45:00
+Javi----> 6:53:00
+Cami----> 4:52:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-08
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Camila Lopez---> Hora: 13:00
+Teresa Orellana---> Hora: 16:18
+Mari Cruz Frias---> Hora: 16:20
+Camila Lopez---> Hora: 16:26
+Estefania Ferre---> Hora: 16:27
+
+
+---------Total horas trabajadores--------
+
+Tere----> 5:18:00
+Este----> 5:27:00
+Mari----> 5:20:00
+Cami----> 3:26:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-09
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 10:45
+Mari Cruz Frias---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Teresa Orellana---> Hora: 12:00
+Camila Lopez---> Hora: 13:02
+Mari Cruz Frias---> Hora: 16:30
+Teresa Orellana---> Hora: 16:31
+Javi Fiestas---> Hora: 16:39
+Camila Lopez---> Hora: 16:40
+Estefania Ferre---> Hora: 16:40
+
+
+---------Total horas trabajadores--------
+
+Javi----> 5:54:00
+Mari----> 5:30:00
+Este----> 5:40:00
+Tere----> 4:31:00
+Cami----> 3:38:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-10
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 10:30
+Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 12:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:25
+Teresa Orellana---> Hora: 16:25
+Camila Lopez---> Hora: 16:32
+Javi Fiestas---> Hora: 16:32
+Estefania Ferre---> Hora: 16:32
+Teresa Orellana---> Hora: 20:00
+Mari Cruz Frias---> Hora: 21:00
+Teresa Orellana---> Hora: 23:39
+Mari Cruz Frias---> Hora: 23:43
+
+
+---------Total horas trabajadores--------
+
+Javi----> 6:02:00
+Mari----> 08:08:00
+Tere----> 08:04:00
+Este----> 4:32:00
+Cami----> 3:32:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-11
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 12:00
+Estefania Ferre---> Hora: 11:30
+Teresa Orellana---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:20
+Teresa Orellana---> Hora: 16:22
+Estefania Ferre---> Hora: 16:30
+Camila Lopez---> Hora: 16:30
+Mari Cruz Frias---> Hora: 20:00
+Camila Lopez---> Hora: 20:00
+Teresa Orellana---> Hora: 21:00
+Teresa Orellana---> Hora: 23:20
+Mari Cruz Frias---> Hora: 23:21
+Camila Lopez---> Hora: 23:21
+
+
+---------Total horas trabajadores--------
+
+Mari----> 07:41:00
+Este----> 5:00:00
+Tere----> 06:42:00
+Cami----> 06:51:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-12
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Camila Lopez---> Hora: 11:20
+Mari Cruz Frias---> Hora: 16:35
+Teresa Orellana---> Hora: 16:35
+Javi Fiestas---> Hora: 16:43
+Camila Lopez---> Hora: 16:45
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:35:00
+Javi----> 5:43:00
+Tere----> 5:35:00
+Cami----> 5:25:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-14
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Estefania Ferre---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Mari Cruz Frias---> Hora: 16:42
+Javi Fiestas---> Hora: 16:56
+Estefania Ferre---> Hora: 16:57
+
+
+---------Total horas trabajadores--------
+
+Este----> 5:57:00
+Javi----> 5:56:00
+Mari----> 5:42:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-15
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:18
+Teresa Orellana---> Hora: 16:19
+Camila Lopez---> Hora: 16:25
+Estefania Ferre---> Hora: 16:25
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:18:00
+Este----> 5:25:00
+Tere----> 5:19:00
+Cami----> 3:25:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-16
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Estefania Ferre---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 10:30
+Teresa Orellana---> Hora: 11:00
+Camila Lopez---> Hora: 13:00
+Teresa Orellana---> Hora: 16:30
+Mari Cruz Frias---> Hora: 16:59
+Javi Fiestas---> Hora: 17:00
+Estefania Ferre---> Hora: 17:02
+Camila Lopez---> Hora: 17:03
+
+
+---------Total horas trabajadores--------
+
+Este----> 6:02:00
+Mari----> 5:59:00
+Javi----> 6:30:00
+Tere----> 5:30:00
+Cami----> 4:03:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-17
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 11:30
+Teresa Orellana---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Teresa Orellana---> Hora: 16:11
+Mari Cruz Frias---> Hora: 16:11
+Estefania Ferre---> Hora: 16:14
+Camila Lopez---> Hora: 16:17
+Javi Fiestas---> Hora: 16:19
+Teresa Orellana---> Hora: 20:00
+Estefania Ferre---> Hora: 20:00
+Mari Cruz Frias---> Hora: 21:00
+Estefania Ferre---> Hora: 22:38
+Mari Cruz Frias---> Hora: 22:41
+Teresa Orellana---> Hora: 22:41
+
+
+---------Total horas trabajadores--------
+
+Mari----> 08:52:00
+Javi----> 5:19:00
+Este----> 07:22:00
+Tere----> 06:50:00
+Cami----> 3:17:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-18
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 10:26
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 12:40
+Camila Lopez---> Hora: 13:00
+Teresa Orellana---> Hora: 16:29
+Camila Lopez---> Hora: 16:37
+Estefania Ferre---> Hora: 16:58
+Javi Fiestas---> Hora: 16:58
+Javi Fiestas---> Hora: 19:30
+Teresa Orellana---> Hora: 21:00
+Camila Lopez---> Hora: 20:00
+Teresa Orellana---> Hora: 23:15
+Camila Lopez---> Hora: 23:22
+Javi Fiestas---> Hora: 23:22
+
+
+---------Total horas trabajadores--------
+
+Javi----> 10:24:00
+Tere----> 07:44:00
+Este----> 4:18:00
+Cami----> 06:59:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-19
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 11:00
+Camila Lopez---> Hora: 12:00
+Mari Cruz Frias---> Hora: 11:00
+Mari Cruz Frias---> Hora: 16:30
+Camila Lopez---> Hora: 16:30
+Javi Fiestas---> Hora: 16:30
+
+
+---------Total horas trabajadores--------
+
+Javi----> 5:30:00
+Cami----> 4:30:00
+Mari----> 5:30:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-21
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Camila Lopez---> Hora: 12:00
+Camila Lopez---> Hora: 16:43
+Estefania Ferre---> Hora: 16:43
+Javi Fiestas---> Hora: 16:47
+Teresa Orellana---> Hora: 16:47
+
+
+---------Total horas trabajadores--------
+
+Javi----> 5:47:00
+Tere----> 5:47:00
+Este----> 5:43:00
+Cami----> 4:43:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-22
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:20
+Teresa Orellana---> Hora: 16:23
+Camila Lopez---> Hora: 16:29
+Estefania Ferre---> Hora: 16:29
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:20:00
+Tere----> 5:23:00
+Este----> 4:29:00
+Cami----> 3:29:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-23
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Estefania Ferre---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Mari Cruz Frias---> Hora: 16:30
+Teresa Orellana---> Hora: 16:31
+Estefania Ferre---> Hora: 16:33
+Javi Fiestas---> Hora: 16:33
+
+
+---------Total horas trabajadores--------
+
+Este----> 5:33:00
+Mari----> 5:30:00
+Tere----> 5:31:00
+Javi----> 5:33:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-24
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Teresa Orellana---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:27
+Teresa Orellana---> Hora: 16:27
+Camila Lopez---> Hora: 16:35
+Estefania Ferre---> Hora: 16:35
+Javi Fiestas---> Hora: 17:30
+Teresa Orellana---> Hora: 20:00
+Estefania Ferre---> Hora: 20:00
+Mari Cruz Frias---> Hora: 21:00
+Camila Lopez---> Hora: 20:00
+Mari Cruz Frias---> Hora: 23:13
+Teresa Orellana---> Hora: 23:13
+Camila Lopez---> Hora: 23:14
+Estefania Ferre---> Hora: 23:15
+
+
+---------Total horas trabajadores--------
+
+Mari----> 07:40:00
+Javi----> 6:30:00
+Este----> 07:50:00
+Tere----> 07:40:00
+Cami----> 06:49:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-25
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 12:30
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:12
+Teresa Orellana---> Hora: 16:12
+Estefania Ferre---> Hora: 16:26
+Camila Lopez---> Hora: 16:26
+Javi Fiestas---> Hora: 16:27
+Javi Fiestas---> Hora: 20:00
+Mari Cruz Frias---> Hora: 20:00
+Camila Lopez---> Hora: 20:00
+Teresa Orellana---> Hora: 21:00
+Mari Cruz Frias---> Hora: 23:46
+Teresa Orellana---> Hora: 23:48
+Camila Lopez---> Hora: 00:16
+Javi Fiestas---> Hora: 00:16
+
+---------Total horas trabajadores--------
+
+Javi----> 10:24:00
+Tere----> 07:44:00
+Este----> 4:18:00
+Cami----> 06:59:00
+Mari----> 
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle AndrÃ©s Perez, 6 29008 MÃ¡laga
+        fecha: 2022-11-26
+        Real Decreto-ley 8/2019, de 8 de marzo, Â«la empresa garantizarÃ¡ el registro diario de jornada,
+        que deberÃ¡ incluir el horario concreto de inicio y finalizaciÃ³n de la jornada de trabajo de 
+        cada persona trabajadoraÂ»
+Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Javi Fiestas---> Hora: 10:30
+Camila Lopez---> Hora: 12:00
+Mari Cruz Frias---> Hora: 16:29
+Teresa Orellana---> Hora: 16:29
+Javi Fiestas---> Hora: 16:43
+Camila Lopez---> Hora: 16:43
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:29:00
+Tere----> 5:29:00
+Javi----> 6:13:00
+Cami----> 4:43:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-28
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Camila Lopez---> Hora: 12:00
+Camila Lopez---> Hora: 16:53
+Estefania Ferre---> Hora: 16:53
+Javi Fiestas---> Hora: 16:53
+Mari Cruz Frias---> Hora: 16:54
+
+
+---------Total horas trabajadores--------
+
+Javi----> 5:53:00
+Este----> 5:53:00
+Mari----> 5:54:00
+Cami----> 4:53:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-29
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:19
+Teresa Orellana---> Hora: 16:19
+Estefania Ferre---> Hora: 16:21
+Camila Lopez---> Hora: 16:22
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:19:00
+Tere----> 5:19:00
+Este----> 4:21:00
+Cami----> 3:22:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-30
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Camila Lopez---> Hora: 12:00
+Mari Cruz Frias---> Hora: 16:36
+Camila Lopez---> Hora: 16:36
+Javi Fiestas---> Hora: 16:36
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:36:00
+Javi----> 5:36:00
+Cami----> 4:36:00
+
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-01
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Estefania Ferre---> Hora: 16:41
+Mari Cruz Frias---> Hora: 16:42
+Camila Lopez---> Hora: 16:42
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:42:00
+Este----> 4:41:00
+Cami----> 3:42:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-02
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            
+
+
+Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 12:59
+Mari Cruz Frias---> Hora: 16:50
+Estefania Ferre---> Hora: 16:55
+Camila Lopez---> Hora: 16:55
+Javi Fiestas---> Hora: 16:55
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:50:00
+Javi----> 5:55:00
+Este----> 4:55:00
+Cami----> 3:56:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-03
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 10:58
+Mari Cruz Frias---> Hora: 12:00
+Estefania Ferre---> Hora: 12:00
+Mari Cruz Frias---> Hora: 16:28
+Javi Fiestas---> Hora: 16:31
+Estefania Ferre---> Hora: 16:31
+Javi Fiestas---> Hora: 19:54
+Estefania Ferre---> Hora: 20:00
+Mari Cruz Frias---> Hora: 20:00
+Mari Cruz Frias---> Hora: 23:00
+Estefania Ferre---> Hora: 23:20
+Javi Fiestas---> Hora: 23:20
+
+
+---------Total horas trabajadores--------
+
+Javi----> 08:59:00
+Mari----> 07:28:00
+Este----> 07:51:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-04
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 12:30
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:29
+Camila Lopez---> Hora: 16:30
+Javi Fiestas---> Hora: 17:04
+Estefania Ferre---> Hora: 17:04
+Mari Cruz Frias---> Hora: 20:00
+Javi Fiestas---> Hora: 19:30
+Camila Lopez---> Hora: 20:02
+Mari Cruz Frias---> Hora: 23:02
+Camila Lopez---> Hora: 23:10
+Javi Fiestas---> Hora: 23:16
+
+
+---------Total horas trabajadores--------
+
+Mari----> 08:31:00
+Javi----> 09:50:00
+Este----> 4:34:00
+Cami----> 06:38:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-05
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Estefania Ferre---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Teresa Orellana---> Hora: 16:43
+Javi Fiestas---> Hora: 16:55
+Estefania Ferre---> Hora: 16:55
+
+
+---------Total horas trabajadores--------
+
+Este----> 5:55:00
+Tere----> 5:43:00
+Javi----> 5:55:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-07
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 10:00
+Camila Lopez---> Hora: 12:00
+Mari Cruz Frias---> Hora: 16:45
+Camila Lopez---> Hora: 16:52
+Javi Fiestas---> Hora: 16:53
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:45:00
+Javi----> 6:53:00
+Cami----> 4:52:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-08
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Camila Lopez---> Hora: 13:00
+Teresa Orellana---> Hora: 16:18
+Mari Cruz Frias---> Hora: 16:20
+Camila Lopez---> Hora: 16:26
+Estefania Ferre---> Hora: 16:27
+
+
+---------Total horas trabajadores--------
+
+Tere----> 5:18:00
+Este----> 5:27:00
+Mari----> 5:20:00
+Cami----> 3:26:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-09
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 10:45
+Mari Cruz Frias---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Teresa Orellana---> Hora: 12:00
+Camila Lopez---> Hora: 13:02
+Mari Cruz Frias---> Hora: 16:30
+Teresa Orellana---> Hora: 16:31
+Javi Fiestas---> Hora: 16:39
+Camila Lopez---> Hora: 16:40
+Estefania Ferre---> Hora: 16:40
+
+
+---------Total horas trabajadores--------
+
+Javi----> 5:54:00
+Mari----> 5:30:00
+Este----> 5:40:00
+Tere----> 4:31:00
+Cami----> 3:38:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-10
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 10:30
+Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 12:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:25
+Teresa Orellana---> Hora: 16:25
+Camila Lopez---> Hora: 16:32
+Javi Fiestas---> Hora: 16:32
+Estefania Ferre---> Hora: 16:32
+Teresa Orellana---> Hora: 20:00
+Mari Cruz Frias---> Hora: 21:00
+Teresa Orellana---> Hora: 23:39
+Mari Cruz Frias---> Hora: 23:43
+
+
+---------Total horas trabajadores--------
+
+Javi----> 6:02:00
+Mari----> 08:08:00
+Tere----> 08:04:00
+Este----> 4:32:00
+Cami----> 3:32:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-11
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 12:00
+Estefania Ferre---> Hora: 11:30
+Teresa Orellana---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:20
+Teresa Orellana---> Hora: 16:22
+Estefania Ferre---> Hora: 16:30
+Camila Lopez---> Hora: 16:30
+Mari Cruz Frias---> Hora: 20:00
+Camila Lopez---> Hora: 20:00
+Teresa Orellana---> Hora: 21:00
+Teresa Orellana---> Hora: 23:20
+Mari Cruz Frias---> Hora: 23:21
+Camila Lopez---> Hora: 23:21
+
+
+---------Total horas trabajadores--------
+
+Mari----> 07:41:00
+Este----> 5:00:00
+Tere----> 06:42:00
+Cami----> 06:51:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-12
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Camila Lopez---> Hora: 11:20
+Mari Cruz Frias---> Hora: 16:35
+Teresa Orellana---> Hora: 16:35
+Javi Fiestas---> Hora: 16:43
+Camila Lopez---> Hora: 16:45
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:35:00
+Javi----> 5:43:00
+Tere----> 5:35:00
+Cami----> 5:25:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-14
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Estefania Ferre---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Mari Cruz Frias---> Hora: 16:42
+Javi Fiestas---> Hora: 16:56
+Estefania Ferre---> Hora: 16:57
+
+
+---------Total horas trabajadores--------
+
+Este----> 5:57:00
+Javi----> 5:56:00
+Mari----> 5:42:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-15
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:18
+Teresa Orellana---> Hora: 16:19
+Camila Lopez---> Hora: 16:25
+Estefania Ferre---> Hora: 16:25
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:18:00
+Este----> 5:25:00
+Tere----> 5:19:00
+Cami----> 3:25:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-16
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Estefania Ferre---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 10:30
+Teresa Orellana---> Hora: 11:00
+Camila Lopez---> Hora: 13:00
+Teresa Orellana---> Hora: 16:30
+Mari Cruz Frias---> Hora: 16:59
+Javi Fiestas---> Hora: 17:00
+Estefania Ferre---> Hora: 17:02
+Camila Lopez---> Hora: 17:03
+
+
+---------Total horas trabajadores--------
+
+Este----> 6:02:00
+Mari----> 5:59:00
+Javi----> 6:30:00
+Tere----> 5:30:00
+Cami----> 4:03:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-17
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 11:30
+Teresa Orellana---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Teresa Orellana---> Hora: 16:11
+Mari Cruz Frias---> Hora: 16:11
+Estefania Ferre---> Hora: 16:14
+Camila Lopez---> Hora: 16:17
+Javi Fiestas---> Hora: 16:19
+Teresa Orellana---> Hora: 20:00
+Estefania Ferre---> Hora: 20:00
+Mari Cruz Frias---> Hora: 21:00
+Estefania Ferre---> Hora: 22:38
+Mari Cruz Frias---> Hora: 22:41
+Teresa Orellana---> Hora: 22:41
+
+
+---------Total horas trabajadores--------
+
+Mari----> 08:52:00
+Javi----> 5:19:00
+Este----> 07:22:00
+Tere----> 06:50:00
+Cami----> 3:17:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-18
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 10:26
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 12:40
+Camila Lopez---> Hora: 13:00
+Teresa Orellana---> Hora: 16:29
+Camila Lopez---> Hora: 16:37
+Estefania Ferre---> Hora: 16:58
+Javi Fiestas---> Hora: 16:58
+Javi Fiestas---> Hora: 19:30
+Teresa Orellana---> Hora: 21:00
+Camila Lopez---> Hora: 20:00
+Teresa Orellana---> Hora: 23:15
+Camila Lopez---> Hora: 23:22
+Javi Fiestas---> Hora: 23:22
+
+
+---------Total horas trabajadores--------
+
+Javi----> 10:24:00
+Tere----> 07:44:00
+Este----> 4:18:00
+Cami----> 06:59:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-19
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 11:00
+Camila Lopez---> Hora: 12:00
+Mari Cruz Frias---> Hora: 11:00
+Mari Cruz Frias---> Hora: 16:30
+Camila Lopez---> Hora: 16:30
+Javi Fiestas---> Hora: 16:30
+
+
+---------Total horas trabajadores--------
+
+Javi----> 5:30:00
+Cami----> 4:30:00
+Mari----> 5:30:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-21
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Camila Lopez---> Hora: 12:00
+Camila Lopez---> Hora: 16:43
+Estefania Ferre---> Hora: 16:43
+Javi Fiestas---> Hora: 16:47
+Teresa Orellana---> Hora: 16:47
+
+
+---------Total horas trabajadores--------
+
+Javi----> 5:47:00
+Tere----> 5:47:00
+Este----> 5:43:00
+Cami----> 4:43:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-22
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:20
+Teresa Orellana---> Hora: 16:23
+Camila Lopez---> Hora: 16:29
+Estefania Ferre---> Hora: 16:29
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:20:00
+Tere----> 5:23:00
+Este----> 4:29:00
+Cami----> 3:29:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-23
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Estefania Ferre---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Mari Cruz Frias---> Hora: 16:30
+Teresa Orellana---> Hora: 16:31
+Estefania Ferre---> Hora: 16:33
+Javi Fiestas---> Hora: 16:33
+
+
+---------Total horas trabajadores--------
+
+Este----> 5:33:00
+Mari----> 5:30:00
+Tere----> 5:31:00
+Javi----> 5:33:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-24
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Teresa Orellana---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:27
+Teresa Orellana---> Hora: 16:27
+Camila Lopez---> Hora: 16:35
+Estefania Ferre---> Hora: 16:35
+Javi Fiestas---> Hora: 17:30
+Teresa Orellana---> Hora: 20:00
+Estefania Ferre---> Hora: 20:00
+Mari Cruz Frias---> Hora: 21:00
+Camila Lopez---> Hora: 20:00
+Mari Cruz Frias---> Hora: 23:13
+Teresa Orellana---> Hora: 23:13
+Camila Lopez---> Hora: 23:14
+Estefania Ferre---> Hora: 23:15
+
+
+---------Total horas trabajadores--------
+
+Mari----> 07:40:00
+Javi----> 6:30:00
+Este----> 07:50:00
+Tere----> 07:40:00
+Cami----> 06:49:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-25
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 12:30
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:12
+Teresa Orellana---> Hora: 16:12
+Estefania Ferre---> Hora: 16:26
+Camila Lopez---> Hora: 16:26
+Javi Fiestas---> Hora: 16:27
+Javi Fiestas---> Hora: 20:00
+Mari Cruz Frias---> Hora: 20:00
+Camila Lopez---> Hora: 20:00
+Teresa Orellana---> Hora: 21:00
+Mari Cruz Frias---> Hora: 23:46
+Teresa Orellana---> Hora: 23:48
+Camila Lopez---> Hora: 00:16
+Javi Fiestas---> Hora: 00:16
+
+---------Total horas trabajadores--------
+
+Javi----> 10:24:00
+Tere----> 07:44:00
+Este----> 4:18:00
+Cami----> 06:59:00
+Mari----> 
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle AndrÃ©s Perez, 6 29008 MÃ¡laga
+        fecha: 2022-11-26
+        Real Decreto-ley 8/2019, de 8 de marzo, Â«la empresa garantizarÃ¡ el registro diario de jornada,
+        que deberÃ¡ incluir el horario concreto de inicio y finalizaciÃ³n de la jornada de trabajo de 
+        cada persona trabajadoraÂ»
+Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Javi Fiestas---> Hora: 10:30
+Camila Lopez---> Hora: 12:00
+Mari Cruz Frias---> Hora: 16:29
+Teresa Orellana---> Hora: 16:29
+Javi Fiestas---> Hora: 16:43
+Camila Lopez---> Hora: 16:43
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:29:00
+Tere----> 5:29:00
+Javi----> 6:13:00
+Cami----> 4:43:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-28
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Javi Fiestas---> Hora: 11:00
+Estefania Ferre---> Hora: 11:00
+Mari Cruz Frias---> Hora: 11:00
+Camila Lopez---> Hora: 12:00
+Camila Lopez---> Hora: 16:53
+Estefania Ferre---> Hora: 16:53
+Javi Fiestas---> Hora: 16:53
+Mari Cruz Frias---> Hora: 16:54
+
+
+---------Total horas trabajadores--------
+
+Javi----> 5:53:00
+Este----> 5:53:00
+Mari----> 5:54:00
+Cami----> 4:53:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-29
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:00
+Estefania Ferre---> Hora: 12:00
+Camila Lopez---> Hora: 13:00
+Mari Cruz Frias---> Hora: 16:19
+Teresa Orellana---> Hora: 16:19
+Estefania Ferre---> Hora: 16:21
+Camila Lopez---> Hora: 16:22
+
+
+---------Total horas trabajadores--------
+
+Mari----> 5:19:00
+Tere----> 5:19:00
+Este----> 4:21:00
+Cami----> 3:22:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2022-11-30
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            Mari Cruz Frias---> Hora: 11:00
+Javi Fiestas---> Hora: 11:00
+Camila
