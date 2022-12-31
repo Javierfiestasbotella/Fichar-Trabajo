@@ -28,7 +28,7 @@ class Fichar():
         self.lista=[]
         self.fecha=''
         self.d=datetime.now().strftime('%Y-%m-%d')
-        self.camila_img=['imagenes\\cam9.gif','imagenes\\cam4.gif','imagenes\\cam1.png','imagenes\\cam2.png','imagenes\\cam3.png','imagenes\\cam4.png','pruebas python\\Fichar_tiempo\\imagenes\\cam5.png','imagenes\\cam7.png','imagenes\\cam8.png']
+        self.camila_img=['imagenes\\cam9.gif','imagenes\\cam4.gif','imagenes\\cam1.png','imagenes\\cam2.png','imagenes\\cam6.png','imagenes\\cam6.png','imagenes\\cam5.png','imagenes\\cam7.png','imagenes\\cam8.png']
         self.cruz_img=['imagenes\\cruz01.gif','imagenes\\cruz7.gif','imagenes\\cruz1.png','imagenes\\cruz2.png','imagenes\\cruz3.png','imagenes\\cruz4.png','pruebas python\\Fichar_tiempo\\imagenes\\cruz5.png','imagenes\\cruz6.png','imagenes\\cruz6.png','imagenes\\cruz9.png','imagenes\\cruz8.png','imagenes\\cruz9.png','imagenes\\cruz10.png','imagenes\\cruz11.png','imagenes\\cruz12.png','imagenes\\cruz13.png']
         self.javi_img=['imagenes\\javi1.png','imagenes\\javi2.png','imagenes\\javi3.png','imagenes\\javi4.png','imagenes\\javi5.png','imagenes\\javi7.png','imagenes\\javi9.png']
         self.tere_img=['imagenes\\tere1 (1).png','imagenes\\tere1 (2).png','imagenes\\tere1 (3).png']
@@ -80,8 +80,9 @@ class Fichar():
         if vespacio2.get()=='0005343291' or vespacio2.get()=='admin':
             print('administracion')
             self.espacio2=vespacio2.set('')
-            self.raiz.quit()#def usuario(self):#pantalla a elegir usuario o registrarse
+            #self.raiz.quit()#def usuario(self):#pantalla a elegir usuario o registrarse
             c.interfaz2()
+           
             
 
         else:
@@ -149,7 +150,7 @@ class Fichar():
       self.nombre_usuario="El Calafate"
       self.raiz.geometry("400x600+0+0")
       self.raiz.configure(background='#F2F2F2')
-      #self.raiz.iconbitmap("rubik.ico")
+      #self.raiz.iconbitmap("imagenes\\favicon.png")
       self.raiz.title(self.nombre_usuario)
       global vespacio2
       global vtexto
@@ -170,7 +171,7 @@ class Fichar():
       Label(self.raiz, text="").place(x=70,y=140)
    
       self.listado=Text(self.raiz,width=40,height=2)
-      self.listado.place(x=50,y=160)
+      self.listado.place(x=40,y=160)
       
       self.raiz.mainloop()
  #------------------------------------------------------------- 
