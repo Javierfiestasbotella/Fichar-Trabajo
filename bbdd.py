@@ -5,9 +5,9 @@ from tkinter import messagebox
 
 dbConnect={
     'host':'lldk499.servidoresdns.net',
-    'user':'*********',
-    'password':'*****************',
-    'database':'******',
+    'user':'qadr270',
+    'password':'Calafate1123',
+    'database':'qadr270',
     
 }
 conexion=mysql.connector.connect(**dbConnect)
