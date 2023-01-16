@@ -20,7 +20,7 @@ import time
 from administracion import *
 import pytz
 from tkinter import ttk
-
+import pathlib
 class Fichar():
     def __init__(self):
         self.nombre=''
@@ -35,8 +35,13 @@ class Fichar():
         self.tere_img=['imagenes\\tere1 (1).png','imagenes\\tere1 (2).png','imagenes\\tere1 (3).png']
         self.estef_img=['imagenes\\estefania (1).png','imagenes\\estefania (2).png','imagenes\\estefania (3).png','imagenes\\estefania (4).png','imagenes\\estefania (5).png','imagenes\\estefania (6).png']
         self.admin=['imagenes\\admin.png']
+        self.seudo=pathlib.Path(__file__).parent.absolute()
     
     
+    def consulta_hemeroteca(self):#crear funcion para cunsultar cualquier tipo de archivo antiguo con self.seudo
+        pass
+
+
     def times(self):
         if self.entry.get()!="Local Time":
             tz = pytz.timezone(self.locations[self.entry.get()])
