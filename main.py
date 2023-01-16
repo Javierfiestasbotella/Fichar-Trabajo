@@ -18,7 +18,8 @@ import datetime
 from datetime import datetime
 import time
 from administracion import *
-
+import pytz
+from tkinter import ttk
 
 class Fichar():
     def __init__(self):
@@ -36,7 +37,17 @@ class Fichar():
         self.admin=['imagenes\\admin.png']
     
     
-    
+    def times(self):
+        if self.entry.get()!="Local Time":
+            tz = pytz.timezone(self.locations[self.entry.get()])
+            zone_time = datetime.now(tz)
+            current_time = zone_time.strftime("%H:%M:%S")
+            self.location_label.configure(text='{} Time'.format(self.entry.get()))
+        else:
+            current_time=time.strftime("%H:%M:%S")
+            self.location_label.configure(text=self.entry.get())
+        self.clock.config(text=current_time,fg="green",font="Arial 25 bold")
+        self.clock.after(200,self.times)
     
     def inspeccionar(self,name):
         archivo =open(str('{}.txt'.format(self.d)),'r')
@@ -80,7 +91,7 @@ class Fichar():
         if vespacio2.get()=='0005343291' or vespacio2.get()=='admin':
             print('administracion')
             self.espacio2=vespacio2.set('')
-            #self.raiz.quit()#def usuario(self):#pantalla a elegir usuario o registrarse
+            self.raiz.quit()#def usuario(self):#pantalla a elegir usuario o registrarse
             c.interfaz2()
            
             
@@ -172,7 +183,25 @@ class Fichar():
    
       self.listado=Text(self.raiz,width=40,height=2)
       self.listado.place(x=40,y=160)
-      
+      #-----------------------------------------
+      self.clock = Label(self.raiz,font=("times",30,"bold"))
+      self.clock.place(x=40,y=230)
+      self.locations = {"Alaska":"US/Alaska","Amsterdam":"Europe/Amsterdam","Berlin":"Europe/Berlin","Budapest":"Europe/Budapest","Buenos Aires":"America/Buenos_Aires","Caracas":"America/Caracas",
+                                  "Chicago":"America/Chicago","Dublin":"Europe/Dublin","Lisbon":"Europe/Lisbon",
+                                  "London":"Europe/London","Los Angeles":"America/Los_Angeles","New York":"America/New_York","Moscow":"Europe/Moscow","Paris":"Europe/Paris",
+                                  "Rome":"Europe/Rome","Seoul":"Asia/Seoul","Sydney":"Australia/Sydney","Tokyo":"Asia/Tokyo"}
+      self.location_label = Label(self.raiz,text="Local Time",width=16,font="arial 24 bold",fg="blue")
+      self.location_label.place(x=40,y=120)
+      self.entry = ttk.Combobox(self.raiz,width=42)
+      self.entry["values"]=["Local Time","Alaska","Amsterdam","Berlin","Budapest","Buenos Aires","Caracas","Chicago","Dublin","Lisbon","London","Los Angeles",
+                                     "New York","Moscow","Paris","Rome","Seoul","Sydney","Tokyo"]
+      self.entry.set("Local Time")
+      self.entry.place(x=40,y=205)
+ 
+      self.times()
+ 
+
+      #-----------------------------------------
       self.raiz.mainloop()
  #------------------------------------------------------------- 
 if __name__ == "__main__":
