@@ -118,4 +118,4 @@ ar=open('pruebas python\\Fichar_tiempo\\octubre\\2022-10-3_.txt','r')
 print(ar.read())
 ar.close()'''
 
-total_horas_archivo_Antiguo("C:\\Users\\Usuario\\Desktop\\python\\Fichar-Trabajo\\2023-04-15.txt")
+total_horas_archivo_Antiguo("C:\\Users\\Usuario\\Desktop\\python\\Fichar-Trabajo\\2023-05-27.txt")
