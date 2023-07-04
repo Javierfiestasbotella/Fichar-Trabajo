@@ -1,0 +1,30 @@
+Javi Fiestas---> Hora: 10:31
+Teresa Orellana---> Hora: 10:57
+Estefania Ferre---> Hora: 12:28
+Camila Lopez---> Hora: 13:02
+Camila Lopez---> Hora: 16:09
+Teresa Orellana---> Hora: 16:19
+Estefania Ferre---> Hora: 16:26
+Javi Fiestas---> Hora: 16:26
+Teresa Orellana---> Hora: 19:51
+Camila Lopez---> Hora: 19:59
+Teresa Orellana---> Hora: 22:47
+Camila Lopez---> Hora: 22:51
+Javi Fiestas---> Hora: 20:00
+Javi Fiestas---> Hora: 22:59
+
+
+---------Total horas trabajadores--------
+
+Javi----> 08:54:00
+Tere----> 08:18:00
+Este----> 3:58:00
+Cami----> 05:59:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2023-07-01
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            
