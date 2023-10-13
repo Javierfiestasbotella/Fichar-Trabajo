@@ -1,0 +1,27 @@
+Mari Cruz Frias---> Hora: 11:00
+Teresa Orellana---> Hora: 11:30
+Estefania Ferre---> Hora: 12:30
+Teresa Orellana---> Hora: 16:00
+Mari Cruz Frias---> Hora: 16:00
+Estefania Ferre---> Hora: 16:06
+Estefania Ferre---> Hora: 20:00
+Mari Cruz Frias---> Hora: 21:00
+Teresa Orellana---> Hora: 20:00
+Mari Cruz Frias---> Hora: 23:00
+Teresa Orellana---> Hora: 23:02
+Estefania Ferre---> Hora: 23:04
+
+
+---------Total horas trabajadores--------
+
+Mari----> 07:00:00
+Tere----> 07:32:00
+Este----> 06:40:00
+Registro Horas Trabajadores
+        Vegetariano el calafate S.L.
+        CIF: B93480127 Calle Andrés Perez, 6 29008 Málaga
+        fecha: 2023-09-23
+        Real Decreto-ley 8/2019, de 8 de marzo, «la empresa garantizará el registro diario de jornada,
+        que deberá incluir el horario concreto de inicio y finalización de la jornada de trabajo de 
+        cada persona trabajadora»
+            
